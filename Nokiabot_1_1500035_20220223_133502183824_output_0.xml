@@ -1,0 +1,1 @@
+<raml version="2.0" xmlns="raml20.xsd"><cmData type="plan"><header><log dateTime="2022-02-23 13:35:02.183824" action="created" appInfo="Script" /></header><managedObject class="NRCELL" version="NRBTS5G19A_1904_201" distName="PLMN-PLMN/MRBTS-1500035/NRBTS-1500035/NRCELL-41" operation="update"><p name="administrativeState">1</p></managedObject></cmData></raml>
